@@ -1,9 +1,9 @@
 # Parcial 1 de Inteligencia Artificial de 3er Año de Image Campus.
 
-	By: Guido Tello
+By: Guido Tello
 
 
-*CONSIGNA*
+CONSIGNA
 
 El código del examen deberá estar alojado en un repositorio Git publico, de lo contrario no se corregirá.
 
